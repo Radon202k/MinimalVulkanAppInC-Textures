@@ -1,4 +1,4 @@
-# MinimalVulkanAppInC
+# MinimalVulkanAppInC - Textures
 
 This repository contains the source code for a minimal Vulkan app written in C. The app demonstrates basic Vulkan concepts and renders a quad (two triangles) with a checkerboard texture on a yellow background.
 
